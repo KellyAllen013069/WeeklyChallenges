@@ -3,9 +3,12 @@
   &lt;Or&gt;
     &lt;TestAncestor&gt;
       &lt;TestId&gt;xUnit::5F6EDB8F-2166-447C-BACA-784679AC4459::net6.0::ChallengesWithTestsMark8.Tests.ChallengesSet01Tests&lt;/TestId&gt;
+      &lt;TestId&gt;xUnit::5F6EDB8F-2166-447C-BACA-784679AC4459::net6.0::ChallengesWithTestsMark8.Tests.ChallengesSet05Tests.NextNumberDivisibleByN&lt;/TestId&gt;
     &lt;/TestAncestor&gt;
     &lt;ProjectFile&gt;5F6EDB8F-2166-447C-BACA-784679AC4459/f:ChallengesSet02Tests.cs&lt;/ProjectFile&gt;
     &lt;ProjectFile&gt;5F6EDB8F-2166-447C-BACA-784679AC4459/f:ChallengesSet03Tests.cs&lt;/ProjectFile&gt;
     &lt;ProjectFile&gt;5F6EDB8F-2166-447C-BACA-784679AC4459/f:ChallengesSet04Tests.cs&lt;/ProjectFile&gt;
+    &lt;ProjectFile&gt;5F6EDB8F-2166-447C-BACA-784679AC4459/f:ChallengesSet05Tests.cs&lt;/ProjectFile&gt;
+    &lt;ProjectFile&gt;5F6EDB8F-2166-447C-BACA-784679AC4459/f:ChallengesSet06Tests.cs&lt;/ProjectFile&gt;
   &lt;/Or&gt;
 &lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>

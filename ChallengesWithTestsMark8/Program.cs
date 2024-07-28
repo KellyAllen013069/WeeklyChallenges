@@ -6,7 +6,10 @@ namespace ChallengesWithTestsMark8
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, world!");
+            var c6 = new ChallengesSet06();
+            var uniqueIndex = c6.IndexOfLastUniqueLetter("Programming");
+            Console.WriteLine($"unique is: {uniqueIndex}");
+            // Console.WriteLine("Hello, world!");
         }
     }
 }
